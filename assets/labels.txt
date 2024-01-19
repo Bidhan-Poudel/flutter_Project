@@ -1,0 +1,10 @@
+0 Eczema
+1 Melanoma
+2 Atopic Dermatitis
+3 Melanocytic Nevi
+4 Basal Cell Carcinoma
+5 Benign Keratosis
+6 Psoriasis
+7 Seborrheic Keratoses
+8 Tinea Ringworm Candidiasis 
+9 Warts Molluscum and other Viral Infections
